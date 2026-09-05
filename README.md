@@ -34,6 +34,6 @@ Example: 1 1 places your marker in the exact center of the board.
 
 ---
 
-How to Run
+## How to Run
 
 TicTacToe.py
