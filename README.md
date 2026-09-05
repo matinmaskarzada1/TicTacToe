@@ -31,3 +31,9 @@ The board uses a standard 3x3 coordinate plane where **(0, 0)** is at the **bott
 
 When prompted, enter your move by typing the X (column) and Y (row) coordinates separated by a space:
 Example: 1 1 places your marker in the exact center of the board.
+
+---
+
+How to Run
+
+TicTacToe.py
